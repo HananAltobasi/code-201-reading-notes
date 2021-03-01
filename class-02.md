@@ -68,5 +68,94 @@ rel : this specifies the relationship between the HTML page and the file it is l
 
 <style> : include CSS rules within an HTML page by placing them inside it.
   
+# JAVASCRIPT
 
+A script is a series of instructions that a computer can follow one-by-one. 
+
+statement : Each individual instruction or step.
+
+## COMMENTS 
+
+They help make your code easier to read and understand, its to explain what your code does.
+
+1) MULTI-LINE COMM ENTS 
+
+you use when  write a comment that stretches over more than one line.
+
+2) SINGLE-LINE COMMENTS 
+
+ used for short descriptions of what the code is doing. 
+
+## VARIABLE
+
+temporarily store the bits of information it needs to do its job, is a good name for this
+concept because the data stored in a variable can change (or vary) each time a script runs. 
+
+## DATA TYPES 
+
+JavaScript distinguishes between 1)numbers, 2)strings, and true or false values known as 3)Booleans.
+
+### RULES FOR NAMING VARIABLES 
+
+1) The name must begin with a letter, dollar sign ($),or an underscore (_). 
+
+2) The name can contain letters,numbers, dollar sign ($), or an underscore (_).
+
+3) You cannot use keywords or reserved words.
+
+4) All variables are case sensitive.
+
+5) Use a name that describes the kind of information that the variable stores.
+
+6)If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
+
+### ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values,
+You create an array and give it a name just like you would any other variable, It is important to know that the
+numbering of this list starts at zero (not one). 
+
+### EXPRESSIONS 
+
+evaluates into (results in) a single value. Broadly speaking there are two types of expressions, 1)EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE, 2)EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE.
+
+### OPERATORS 
+
+they allow programmers to create a single value from one or more values,  mathematical operators, which you can use with numbers. 
+
+# DECISIONS & LOOPS
+
+## DECISIONS
+
+are made that determine which lines of code should be run next. there are components:
+
+1)evaluation of a condition.
+2)conditional statement.
+
+comparing one value in the script, the result will be boolean.
+
+using compartion operators: you can evaluate two variables using a comparison operator to return a
+true or false value.
+
+USING LOGICAL AND 
+
+The logical AND is used to see if the user's score is greater than or equal to the pass mark in both of the rounds of the test. 
+
+USING LOGICAL OR & LOGICAL NOt
+
+The user has passed both rounds, so the min Pass variable will hold the Boolean value of true. 
+
+# if statement
+
+evaluats a condition, if the condition evaluats to true, any statement in the subsequent code block are executed.
+
+can used 3 types:
+
+1)USING IF STATEMENTS 
+2)USING IF ... ELSE STATEMENTS
+3)USING SWITCH STATEMENTS 
+
+ 
+ 
 
