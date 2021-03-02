@@ -176,19 +176,19 @@ result - but they return the value that stopped the processing (not necessarily 
 
 check a condition. there are three types of loop:
 
-1) for 
+### 1) for 
 
 if you need to run code a specific number of times.
 
-![img](https://cf.ppt-online.org/files1/slide/f/fqUhbIKJBalrm6FYzyjCWpQE4ATOSu1GgHZcv5XN7D/slide-6.j)
+![img](https://cf.ppt-online.org/files1/slide/f/fqUhbIKJBalrm6FYzyjCWpQE4ATOSu1GgHZcv5XN7D/slide-6.jpg)
 
-2) while
+### 2) while
 
 if you do not know how many times the code shold run.
 
 ![img](https://cf.ppt-online.org/files1/slide/f/fqUhbIKJBalrm6FYzyjCWpQE4ATOSu1GgHZcv5XN7D/slide-8.jpg)
 
-3) do while
+### 3) do while
 
 it will always run the statement inside the curly braces at least once.
 
