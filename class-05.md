@@ -202,3 +202,33 @@ elements that have an attribute with a specific value.
 
 ![image](https://user-images.githubusercontent.com/79087406/110038665-b56f0000-7d48-11eb-8dce-9cc0c11f6fca.png)
 
+## three most commonly used image formats in websites and mobile applications — JPEG, PNG and GIF
+
+these 3 formats together comprise of more than 95% of all images loaded on websites,
+these 3 image formats have significant differences :
+
+* TL;DR:
+
+Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. 
+Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos.
+Use GIF format for images that contain animations.
+
+* Compression
+
+Almost all forms of data that we see on the internet — text, image, video etc.
+are compressed to reduce the size of data and ensure faster transmission. 
+Choosing the correct format and compression is a major factor that determines image size.
+
+* Colours
+
+There is a significant difference in the number of colours that can be supported by these 3 formats.
+
+- JPEG: images can support around 16 million colours, This is what makes them suitable for storing images of natural scenes.
+- PNG: images mainly have two modes — PNG8 and PNG24. 
+- GIF: images are limited to 256 colours.
+
+* Animation
+
+refers to any change or movement in the image. It doesn’t necessarily have to have frame rates like an animated video,
+but essentially a part or the entire image changes with time.
+(Of these 3 formats, only GIF supports animation).
