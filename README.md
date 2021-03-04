@@ -9,7 +9,7 @@
 | Html_2 && JavaScript_2 | [class-02](https://hananaltobasi.github.io/code-201-reading-notes/class-02) |
 | Html_3 && JavaScript_3 | [class-03](https://hananaltobasi.github.io/code-201-reading-notes/class-03) | 
 | Html_4 && JavaScript_4 | [class-04](https://hananaltobasi.github.io/code-201-reading-notes/class-04) |
-|   |   |  
+| Images-Color-Text | [class-05](https://hananaltobasi.github.io/code-201-reading-notes/class-05) |  
 |   |   |
 |   |   | 
 |   |   |
