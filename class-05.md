@@ -1,5 +1,7 @@
 # Images
 
+![img](https://art-u2.infcdn.net/articles_uploads/2013/05/IMG_15052013_144347.png)
+
 * A picture can say a thousand words, and great images help make the difference between an
 average-looking site and a really engaging one.
 
@@ -147,3 +149,56 @@ individual values inside parentheses for:
 * alpha: This is expressed as a number between 0 and 1.0.
 
 # Text
+
+![img](https://spec.fm/static/img/specifics/002-header.png)
+
+If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly.
+But if you design on a PC, then it should look fine on a Mac.
+
+### Typeface Terminology
+
+* Serif: have extra details on the ends of the main strokes of the letters.
+* Sans-Serif: have straight ends to letters, and therefore have a much cleaner design.
+* Monospace: Every letter in a monospace (or fixed-width) font is the same width.
+
+### Techniques That Offer a Wider Choice of Typefaces
+
+typefaces are subject to copyright, so the techniques you can choose from are limited by their respective licenses.
+
+* font-family: The user's computer needs the typeface installed. CSS is used to specify the typeface.
+* font-face: CSS specifies where a font can be downloaded from if it is not installed on the computer.
+* Service-based Font-Face: Commercial services give users access to a wider range of fonts using @font-face.
+
+### Specifying Typefaces (font-family)
+
+allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.
+The value of this property is the name of the typeface you want to use.
+
+### Size of Type (font-size)
+
+enables you to specify a size for the font, There are several ways to specify the size of a font:
+
+* pixels: they allow web designers very precise control over how much space their text takes up, The number of pixels is followed by the letters px.
+* percentages: The default size of text in browsers is 16px. So a size of 75% would be the equivalent of 12px, and 200% would be 32px.
+* ems: An em is equivalent to the width of a letter m.
+
+### Type Scales
+
+You may have noticed that programs such as Word, Photoshop and InDesign offer the same sizes of text.
+
+### CSS3: Drop Shadow
+
+The text-shadow property has become commonly used despite lacking support in all browsers. 
+
+### styling links
+
+* link: This allows you to set styles for links that have not yet been visited.
+* visited: This allows you to set styles for links that have been clicked on. 
+
+### Attribute Selectors
+
+You met the most popular CSS selectors on page 238. There are also a set of attribute selectors that allow you to create rules that apply to 
+elements that have an attribute with a specific value.
+
+![image](https://user-images.githubusercontent.com/79087406/110038665-b56f0000-7d48-11eb-8dce-9cc0c11f6fca.png)
+
