@@ -14,7 +14,7 @@
 | Table-Domain modeling | [class-07](https://hananaltobasi.github.io/code-201-reading-notes/class-07) | 
 |  Layouts-css |  [class-08](https://hananaltobasi.github.io/code-201-reading-notes/class-08) |
 |  Forms-Lists-Events | [class-09](https://hananaltobasi.github.io/code-201-reading-notes/class-09)  |  
-|   |   |
+|  ERROR HANDLING & DEBUGGING |  [class-10](https://hananaltobasi.github.io/code-201-reading-notes/class-10) |
 |   |   |
 |   |   | 
 |   |   |
