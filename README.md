@@ -15,7 +15,7 @@
 |  Layouts-css |  [class-08](https://hananaltobasi.github.io/code-201-reading-notes/class-08) |
 |  Forms-Lists-Events | [class-09](https://hananaltobasi.github.io/code-201-reading-notes/class-09)  |  
 |  ERROR HANDLING & DEBUGGING |  [class-10](https://hananaltobasi.github.io/code-201-reading-notes/class-10) |
-|   |   |
+| Images-Practical Information | [class-11](https://hananaltobasi.github.io/code-201-reading-notes/class-11) |
 | Charts | [class-12](https://hananaltobasi.github.io/code-201-reading-notes/class-12)| 
 |   |   |
 |   |   |  
