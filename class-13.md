@@ -1,4 +1,5 @@
 # local storage
+![img](https://elzero.org/wp-content/uploads/2020/05/lab-local-storage.png)
  * is one of the areas where native client applications have held an advantage over web applications.
  * the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state.
  * Cookies were invented early in the web’s history, and indeed they can be used for persistent local storage of small amounts of data.
