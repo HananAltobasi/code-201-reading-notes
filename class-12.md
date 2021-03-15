@@ -7,8 +7,11 @@
 
 ### steps for creat Chart:
 1) Setting up: The first thing we need to do is download Chart.js.
+
 2) Drawing a line chart: the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart.
+
 3) write a script that will retrieve the context of the canvas
+
 4) Drawing a pie chart: Our line chart is complete, so let’s move on to our pie chart.
 
 # Chart.js
@@ -50,33 +53,3 @@ Working with paths is essential when drawing objects onto the canvas.
 
 ## Advanced text measurements
 * measureText(): Returns a TextMetrics object containing the width, in pixels.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
