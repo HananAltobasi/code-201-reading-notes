@@ -19,4 +19,4 @@
 | Charts | [class-12](https://hananaltobasi.github.io/code-201-reading-notes/class-12)| 
 | local storage | [class-13](https://hananaltobasi.github.io/code-201-reading-notes/class-13)  |
 | Transaction  | [class-14a](https://hananaltobasi.github.io/code-201-reading-notes/class-14a)  |  
-|   |   |
+| Google Learned  | [class-14b](https://hananaltobasi.github.io/code-201-reading-notes/class-14b)  |  
